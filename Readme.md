@@ -100,7 +100,7 @@ View loss curves and other metrics:
 python visualize.py
 
 Results
-![alt text](https://github.com/Sabal-Subedi/Deepfake/main/images/confuse.png?raw=true)
+![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/confuse.png?raw=true)
 Achieved high accuracy in detecting fake images.
 
 Loss curves and performance metrics are logged for analysis.
