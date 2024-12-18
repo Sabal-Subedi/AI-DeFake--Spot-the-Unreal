@@ -36,6 +36,8 @@ Scalable Implementation: Designed to handle diverse datasets for training and te
 
 Dataset
 
+![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/dataset.png?raw=true)
+
 Source: Kaggle
 
 Description: A comprehensive dataset containing labeled real and fake images.
@@ -100,10 +102,15 @@ View loss curves and other metrics:
 python visualize.py
 
 Results
+
 ![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/confuse.png?raw=true)
 Achieved high accuracy in detecting fake images.
 
+![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/loss.png?raw=true)
 Loss curves and performance metrics are logged for analysis.
+
+![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/output.png?raw=true)
+
 
 Future Work
 
