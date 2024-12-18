@@ -74,8 +74,7 @@ pip install -r requirements.txt
 
 Clone the Repository
 
-git clone https://github.com/username/deepfake-detection-gan
-cd deepfake-detection-gan
+git clone https://github.com/Sabal-Subedi/Deepfake
 
 Usage
 
@@ -101,7 +100,7 @@ View loss curves and other metrics:
 python visualize.py
 
 Results
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 Achieved high accuracy in detecting fake images.
 
 Loss curves and performance metrics are logged for analysis.
