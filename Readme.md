@@ -111,6 +111,8 @@ Loss curves and performance metrics are logged for analysis.
 
 ![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/output.png?raw=true)
 
+![alt text](https://github.com/Sabal-Subedi/Deepfake/tree/main/images/reacall.png?raw=true)
+
 
 Future Work
 
