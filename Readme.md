@@ -1,4 +1,4 @@
-###Deepfake Detection Using GAN with ResNet32
+Deepfake Detection Using GAN with ResNet32
 
 This project implements a deepfake detection model based on a Generative Adversarial Network (GAN) architecture, using ResNet32 as the feature extractor in the discriminator. The model is trained and evaluated on a Kaggle image dataset.
 
@@ -100,7 +100,7 @@ View loss curves and other metrics:
 python visualize.py
 
 Results
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Sabal-Subedi/Deepfake/main/images/confuse.png?raw=true)
 Achieved high accuracy in detecting fake images.
 
 Loss curves and performance metrics are logged for analysis.
