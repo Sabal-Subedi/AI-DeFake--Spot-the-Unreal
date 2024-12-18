@@ -1,4 +1,4 @@
-Deepfake Detection Using GAN with ResNet32
+###Deepfake Detection Using GAN with ResNet32
 
 This project implements a deepfake detection model based on a Generative Adversarial Network (GAN) architecture, using ResNet32 as the feature extractor in the discriminator. The model is trained and evaluated on a Kaggle image dataset.
 
@@ -40,7 +40,7 @@ Source: Kaggle
 
 Description: A comprehensive dataset containing labeled real and fake images.
 
-Preprocessing: Images were resized to 224x224 pixels and normalized for training.
+Preprocessing: Images were resized to 64x64 pixels and normalized for training.
 
 Model Architecture
 
