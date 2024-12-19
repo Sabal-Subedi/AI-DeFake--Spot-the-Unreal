@@ -87,19 +87,11 @@ Download the dataset from Kaggle and place it in the data/ directory.
 Update the dataset path in the configuration file.
 
 Train the Model
-Run the following command to train the GAN model:
-
-python train.py --epochs 50 --batch-size 32
 
 Evaluate the Model
-Evaluate the model on the test dataset using:
-
-python evaluate.py --model checkpoint/model.pth
 
 Generate Visualizations
-View loss curves and other metrics:
 
-python visualize.py
 
 Results
 
