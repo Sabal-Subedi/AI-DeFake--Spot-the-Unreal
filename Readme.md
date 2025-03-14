@@ -50,7 +50,7 @@ The discriminator classifies images as real or fake. ResNet32 is employed to ext
   - pip install -r requirements.txt
 
 - Clone the Repository
-  - git clone https://github.com/Sabal-Subedi/Deepfake
+  - git clone https://github.com/Sabal-Subedi/AI-DeFake--Spot-the-Unreal
 
 ### Usage
 - Prepare the Dataset
